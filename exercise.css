@@ -1,0 +1,49 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+background-color: aqua;
+margin:0px;
+padding-top: 20px;
+text-align: center;
+}
+
+.Container {
+width: 1000px;
+margin: auto;
+
+}
+
+.blessing {
+background-color:aqua;
+border-radius: 10px;
+box-shadow: 3px 2px 5px red;
+margin-bottom: 30px;
+padding: 30px 20px;
+}
+
+.Photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 8px #cf2e79;
+}
+
+.avatar {
+width: 100px;
+border-radius: 50px;
+margin: 20px;
+}
+.btw {
+display: inline-block;
+margin-top: 15px;
+color: black;
+text-decoration: none;
+font-weight: bold;
+}
+
+.pink-text {
+color: blue;
+
+}
+
+
+
