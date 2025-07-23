@@ -1,0 +1,38 @@
+*{
+    margin: auto;
+}
+
+body{
+    
+background-color: lavender;
+}
+.Mother{
+background-color:gold;
+height: 300px;
+width: 300px;
+padding: 1000px;
+}
+
+.logo{
+padding-left: 50px;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 8px #cf2e79;
+
+}
+#slogan{
+    padding-bottom: 5px;
+}
+    
+.company{
+    color: #380ef3;
+font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;  
+
+
+
+
+}
