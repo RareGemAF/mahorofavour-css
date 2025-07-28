@@ -1,0 +1,58 @@
+{
+   margin: 0;
+   padding: 0 ;
+    
+}
+
+
+.Mine{ 
+    margin: auto;
+width: 600px;
+height: 400px;
+background-color: blue;
+
+}
+
+.Red{
+    background-color: red;
+    width: 200px;
+    float: left;
+
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    margin-left: 50px;
+}
+
+.Yellow{
+width: 350px;
+height: 400px;
+background-color: aqua;
+float:right ;
+}
+
+.Xlogo{
+    width: 20px;
+}
+
+.Joy{
+   width: 200px; 
+   height: 30px;
+   margin: 10px 50px;
+   border-radius: 15px;
+   border: grey 1px solid;
+   
+
+}
+
+.Joy_next{
+width: 168px;
+border-radius: 5px;
+background-color: black;
+color: #f8f7f7;
+   
+}
